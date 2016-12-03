@@ -19,4 +19,4 @@ default = []
 
 [dependencies]
 linked-hash-map = "0.2"
-heapsize = { version = "0.3.7", optional = true }
+heapsize = { version = "0.3", optional = true }
